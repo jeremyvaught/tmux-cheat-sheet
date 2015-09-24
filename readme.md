@@ -1,4 +1,4 @@
-Jeremy VIM Cheat Sheet
+Jeremy's TMUX Cheat Sheet
 ----------------------
 
 
